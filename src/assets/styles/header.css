@@ -1,0 +1,22 @@
+/* Header styles */
+
+.header-container {
+  color: #fff;
+  font-weight: 700;
+}
+
+span {
+  font-size: 20px;
+}
+
+.container-fluid {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #006494;
+}
+
+/* .container-fluid {
+    background-color: blue;
+} */
